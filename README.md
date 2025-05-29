@@ -1,12 +1,6 @@
 # 🖼️ Neural Style Transfer
 
-[![Last Commit](https://img.shields.io/github/last-commit/EquastRiNet/neural-style-transfer)](https://github.com/EquastRiNet/neural-style-transfer/commits/main)
-
----
-
 > **I have developed an AI model that blends the style of one image (the style image) into the contents of another image (the content image).**
-
----
 
 ## 🎨 Demo: Style Transfer in Action!
 
