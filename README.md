@@ -14,7 +14,7 @@
 
 | **Content Image** | **Style Image** | **Stylized Result** |
 |:-----------------:|:---------------:|:-------------------:|
-| ![Content](examples/content.jpg) | ![Style](examples/style.jpg) | ![Result](examples/stylized.jpg) |
+| ![Content](content_image/main_content.jpg) | ![Style](style_image/mosaic.jpg) | ![Result](final_images/style_bg_mosaic.png) |
 
 *Replace these images with your own in the `examples/` directory for a personalized showcase.*
 
