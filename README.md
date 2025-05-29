@@ -40,7 +40,7 @@ git clone https://github.com/EquastRiNet/neural-style-transfer.git
 Open the main Jupyter Notebook:
 
 ```bash
-jupyter notebook neural_style_transfer.ipynb
+neural_style_transfer.ipynb
 ```
 
 Follow the instructions in the notebook to:
