@@ -16,7 +16,6 @@
 |:-----------------:|:---------------:|:-------------------:|
 | ![Content](content_image/main_content.jpg) | ![Style](style_image/mosaic.jpg) | ![Result](final_images/style_bg_mosaic.png) |
 
-*Replace these images with your own in the `examples/` directory for a personalized showcase.*
 
 ---
 
@@ -55,19 +54,6 @@ Follow the instructions in the notebook to:
 ## 🖌️ How It Works
 
 > The model uses deep neural networks to extract the *content* from one image and the *style* from another, blending them into a new, unique image.
-
-![Diagram](examples/diagram.png)
-*Diagram: Overview of the style transfer process.*
-
----
-
-## 📂 Example Gallery
-
-| ![ex1](examples/ex1.jpg) | ![ex2](examples/ex2.jpg) | ![ex3](examples/ex3.jpg) |
-|:-----------------------:|:-----------------------:|:-----------------------:|
-| Example 1 | Example 2 | Example 3 |
-
----
 
 ## 🤝 Contributing
 
