@@ -54,4 +54,4 @@ Follow the instructions in the notebook to:
 
 > The model uses deep neural networks to extract the *content* from one image and the *style* from another, blending them into a new, unique image.
 
-> Created with 🚀 by [EquastRiNet](https://github.com/EquastRiNet)
+Created with 🚀 by [EquastRiNet](https://github.com/EquastRiNet)
