@@ -1,6 +1,5 @@
 # 🖼️ Neural Style Transfer
 
-[![Stars](https://img.shields.io/github/stars/EquastRiNet/neural-style-transfer?style=social)](https://github.com/EquastRiNet/neural-style-transfer/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/EquastRiNet/neural-style-transfer)](https://github.com/EquastRiNet/neural-style-transfer/commits/main)
 
 ---
