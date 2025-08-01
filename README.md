@@ -1,6 +1,6 @@
 # 🖼️ Neural Style Transfer
 
-> **I have developed an AI model that blends the style of one image (the style image) into the contents of another image (the content image).**
+> **AI model that blends the style of one image (the style image) into the contents of another image (the content image).**
 
 ## 🎨 Demo: Style Transfer in Action!
 
